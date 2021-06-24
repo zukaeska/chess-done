@@ -1,0 +1,68 @@
+{
+    "player1":{
+        "games":[
+                {
+                "game_id":"number1",
+                "date":"1985, November, 9",
+                "style":"black",
+                "players":[
+                    "Garry Kasparov",
+                    "Anatoly Karpov"
+                ]
+            },
+            {
+                "game_id":"number4",
+                "date":"1996, December, 5",
+                "style":"white",
+                "players":[
+                    "Garry Kasparov",
+                    "Politis Dionisos"
+                ]
+            }
+        ]
+    },
+    "player2":{
+        "games":[
+                {
+                "game_id":"number2",
+                "date":"2013, January, 16",
+                "style":"black",
+                "players":[
+                    "Viswanathan Anand",
+                    "Levon Aronian"
+                ]
+            },
+            {
+                "game_id":"number5",
+                "date":"2007, December, 5",
+                "style":"white",
+                "players":[
+                    "Viswanathan Anand",
+                    "Antonio Martin Manzano"
+                ]
+            }
+        ]
+    },
+    "player3":{
+            "games":[
+                {
+                "game_id":"number3",
+                "date":"1953, september, 9",
+                "style":"black",
+                "players":[
+                    "Max Euwe",
+                    "Efim Geller"
+                ]
+            },
+            {
+                "game_id":"number6",
+                "date":"1955, January, 26",
+                "style":"white",
+                "players":[
+                    "Max Euwe",
+                    "J Graafland"
+                ]
+            }
+        ]
+    }
+}

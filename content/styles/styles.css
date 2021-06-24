@@ -1,0 +1,65 @@
+body {
+    background-color:grey;
+}
+table{
+    border-collapse: collapse;
+    border: 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tray{
+    border-collapse: collapse;
+    border: 3px solid;
+    width: 100px;
+    height: 100px;
+        
+}
+.brown{
+    background-color:brown;
+}
+.white{
+    background-color:white;
+}
+img{
+    margin:auto;
+    display: block;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+}
+.letters{
+    background-color:white;
+    border-collapse: collapse;
+    border: 3px solid;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color:red;
+    border-color: black;
+}
+.numbers{
+    background-color:white;
+    border-collapse: collapse;
+    border: 3px solid;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color:red;
+    border-color: black;
+}
+.button{
+    margin-left: 49%;
+}
+#back{
+    margin-bottom: 20px;
+    width: 120px;
+    height: 40px;
+    margin-left: -85px;
+    background-color: yellow;
+}
+#next{
+    margin-bottom: 20px;
+    width: 120px;
+    height: 40px;
+    background-color: yellow;
+}

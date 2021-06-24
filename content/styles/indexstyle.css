@@ -1,0 +1,36 @@
+body{
+    background-color: darkgreen;
+}
+h1 {
+    background-color: rgb(163, 165, 42);
+    height: 100px;
+    text-align: center;
+    color: black;
+}
+div {
+    background-color:darkolivegreen;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+img { 
+    width: 200px;
+    height: 200px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+p {
+    color: black;
+    font-size: larger;
+}
+#freegame{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-left: 47% ;
+}

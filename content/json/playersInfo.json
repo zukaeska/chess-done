@@ -1,0 +1,28 @@
+{
+    "players":[
+        {
+            "player_id" : "player1",
+            "name" : "Garry Kasparov",
+            "nation" :"Russian",
+            "birthdate" : "April 13, 1963",
+            "world_titles" : 14,
+            "Peak_rating" : 2879
+        },
+        {
+            "player_id" : "player2",
+            "name" : "Viswanathan Anand",
+            "nation" : "Indian",
+            "birthdate" : "December 11, 1969",
+            "world_titles" : 5,
+            "Peak_rating" : 2817
+        },
+        {
+            "player_id" : "player3",
+            "name" : "Max Euwe",
+            "nation" : "holland",
+            "birthdate" : "May 20, 1901",
+            "world_titles" : 3,
+            "Peak_rating" : 2530 
+        }
+    ]
+}
