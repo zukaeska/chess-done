@@ -18,7 +18,7 @@ $(document).ready(function () {
         img.src = "./content/images/" + playerName + ".jpg";
         var link = document.getElementById(playerId).parentElement;
         link.href = "./content/games/gamesinfo.html?playerId=" + playerId;
-        link.className = "link"
+        link.className = "link";
         $("#" + playerId).append(heading, nation, birthdate, titles, score, img);
     }
 });
